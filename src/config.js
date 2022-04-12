@@ -4,10 +4,10 @@
 //datos se oculten por lo que lo vamos a dejar asi
 
 export const config = {
-    host : 'localhost',
-    database : 'usermanagment',
-    user : 'root',
-    password : '',
+    host : 'bnydxdxwzwac5v8bso0o-mysql.services.clever-cloud.com',
+    database : 'bnydxdxwzwac5v8bso0o',
+    user : 'uzrezc9bggffgibm',
+    password : 'uzrezc9bggffgibm',
     port: '3306'
 }
 
