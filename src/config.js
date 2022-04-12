@@ -7,7 +7,7 @@ export const config = {
     host : 'bnydxdxwzwac5v8bso0o-mysql.services.clever-cloud.com',
     database : 'bnydxdxwzwac5v8bso0o',
     user : 'uzrezc9bggffgibm',
-    password : 'uzrezc9bggffgibm',
+    password : 'ELik6ahNbH7ODgkaB1D2',
     port: '3306'
 }
 
